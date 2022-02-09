@@ -22,7 +22,7 @@ When you connect to the Websocket API the ConnectionHandler Lambda preserves the
 - AWS account
 - Node.js v16
 - git
--
+
 ### 1. Complete the prerequisites and clone this repo
 ```
 git clone git@URL
@@ -81,8 +81,8 @@ Run the following command to shut down the resources created in this workshop.
 npx cdk destroy
 ```
 
-Security
+## Security
 See CONTRIBUTING for more information.
 
-License
+## License
 This project is licensed under the MIT-0 License. See the LICENSE file.
