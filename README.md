@@ -1,6 +1,6 @@
 # Using Apollo Server on AWS Lambda with Amazon EventBridge for real-time, event-driven streaming
 
-This repository contains the full source code that is used in the blog post ...
+This repository contains the full source code that is used in the blog post [Using Apollo Server on AWS Lambda with Amazon EventBridge for real-time, event-driven streaming](https://aws.amazon.com/blogs/opensource/using-apollo-server-on-aws-lambda-with-amazon-eventbridge-for-real-time-event-driven-streaming/)
 
 ## Solution Overview
 
